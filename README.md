@@ -100,10 +100,8 @@ This project uses a multi-file, modular architecture with `.c` and `.h` files or
 
 ## ✏️ Author
 
-**Gal Grinfeld**  
+**Noga Dotan**  
 Computer Science Student @ Afeka College of Engineering  
-[GitHub Profile](https://github.com/galgrinfeld)  
-[LinkedIn](https://www.linkedin.com/in/gal-grinfeld/)
 
 ---
 
